@@ -18,8 +18,8 @@
 				"responsive": true,
 				"templateDirectory": "skins/WMAU/templates",
 				"messages": [
-					"wmau-talk-link",
-					"wmau-subject-link"
+					"site-email",
+					"sitetitle"
 				]
 			} ]
 		}
