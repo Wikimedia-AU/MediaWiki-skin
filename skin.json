@@ -16,6 +16,13 @@
 			"args": [ {
 				"name": "WMAU",
 				"responsive": true,
+				"styles": [
+					"skins.wmau",
+					"skins.wmau.images"
+				],
+				"scripts": [
+					"skins.wmau.js"
+				],
 				"templateDirectory": "skins/WMAU/templates",
 				"messages": [
 					"wmau-talk-link",

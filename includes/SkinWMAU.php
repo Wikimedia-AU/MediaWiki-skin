@@ -6,17 +6,6 @@ use MediaWiki\MediaWikiServices;
  * @ingroup Skins
  */
 class SkinWMAU extends SkinMustache {
-
-	/**
-	 * Initialise the page.
-	 * @param OutputPage $out
-	 */
-	public function initPage( OutputPage $out ) {
-		$out->addMeta( 'viewport', 'width=device-width, initial-scale=1.0' );
-		$out->addModuleStyles( [ 'skins.wmau', 'skins.wmau.images' ] );
-		$out->addModules( [ 'skins.wmau.js' ] );
-	}
-
 	/**
 	 * Subclasses may extend this method to add additional
 	 * template data.
