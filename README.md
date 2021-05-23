@@ -1,8 +1,10 @@
 Wikimedia Australia's MediaWiki skin
 ====================================
 
-This is WMAU's wiki skin.
+This repo has moved to Gerrit:
 
-Kudos:
+https://gerrit.wikimedia.org/r/q/project:mediawiki/skins/WMAU
 
-* https://feathericons.com/
+There is a Github mirror at:
+
+https://github.com/wikimedia/mediawiki-skins-WMAU
